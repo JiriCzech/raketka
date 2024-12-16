@@ -1,0 +1,7 @@
+0.3 - stabilní létaní s raketkou
+0.5 - funkční asteroidy
+0.8 - 
+git checkout 0.2. řeším kolizi
+¨git checkout 0.2.1. vyřešeno
+git checkout 0.2.2. opraven start hry 
+git checkout 0.2.3. opravena animace výbuchu
